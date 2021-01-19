@@ -493,9 +493,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75040115"
-     inkscape:cx="321.62086"
-     inkscape:cy="591.13"
+     inkscape:zoom="0.62414754"
+     inkscape:cx="317.71194"
+     inkscape:cy="2632.3204"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5863,5 +5863,14 @@
        overflow="visible"
        fill="#474747"
        id="path9904" />
+    <rect
+       rx="0.52916533"
+       ry="0.52916533"
+       style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;stroke:#d1d1d1;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12005"
+       width="1.0583307"
+       height="49.477089"
+       x="233.36444"
+       y="631.84271" />
   </g>
 </svg>
